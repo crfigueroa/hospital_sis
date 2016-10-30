@@ -13,7 +13,7 @@
     'version': '1.1',
     'author': 'Marlon Falcon Hernandez',
     'category': 'Accounting & Finance',
-    'summary': 'Modulo de gestions de hospital',
+    'summary': 'Modulo de gestions de hospital 2016',
     'sequence': 30,
     'website': 'https://www.marlonfalcon.cl',
     'description': """
